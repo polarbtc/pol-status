@@ -5,12 +5,12 @@
      "incidents": [
        {
          "date": "2025-04-16T23:07:00.000Z",
-         "message": "All systems operational. Everything is working smoothly."
+         "message": "All systems operational. Everything is working smoothly.",
          "type": "info"
        },
        {
          "date": "2025-04-16T23:07:00.000Z",
-         "message": "Maintenance for minor front-end fixes and updates with new information."
+         "message": "Maintenance for minor front-end fixes and updates with new information.",
          "type": "maintenance_scheduled"
        }
      ]
@@ -21,8 +21,8 @@
      "incidents": [
        {
          "date": "2025-04-16T23:07:00.000Z",
-         "message": "Configuring resources and optimizing overall usage."
-          "type": "maintenance"
+         "message": "Configuring resources and optimizing overall usage.",
+         "type": "maintenance"
        }
      ]
    },
@@ -32,12 +32,12 @@
      "incidents": [
       {
          "date": "2025-04-16T23:07:00.000Z",
-         "message": "All systems operational. Everything is working smoothly."
+         "message": "All systems operational. Everything is working smoothly.",
          "type": "info"
        },
        {
          "date": "2025-04-16T23:07:00.000Z",
-         "message": "Maintenance for data flow improvements and system optimization."
+         "message": "Maintenance for data flow improvements and system optimization.",
           "type": "maintenance_scheduled"
        }
      ]
