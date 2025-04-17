@@ -17,7 +17,7 @@
    },
    {
      "id": 2,
-     "status": "operational",
+     "status": "maintenance",
      "incidents": [
        {
          "date": "2025-04-16T23:07:00.000Z",
