@@ -21,24 +21,19 @@
      "incidents": [
        {
          "date": "2025-04-19T04:01:00.000Z",
-         "message": "Finalizing features...",
+         "message": "All systems operational. Everything is working smoothly.",
          "type": "maintenance"
        }
      ]
    },
    {
      "id": 3,
-     "status": "operational",
+     "status": "maintenance",
      "incidents": [
       {
          "date": "2025-04-16T23:07:00.000Z",
-         "message": "All systems operational. Everything is working smoothly.",
-         "type": "info"
-       },
-       {
-         "date": "2025-04-16T23:07:00.000Z",
-         "message": "Maintenance for data flow improvements and system optimization.",
-          "type": "maintenance_scheduled"
+         "message": "Making some corrections and improving latency.",
+         "type": "maintenance"
        }
      ]
    }
