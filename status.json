@@ -20,7 +20,7 @@
      "status": "operational",
      "incidents": [
        {
-         "date": "2025-04-19T21:14:00.000Z"
+         "date": "2025-04-19T21:14:00.000Z",
          "message": "All systems operational. Everything is working smoothly.",
          "type": "info"
        }
@@ -31,7 +31,7 @@
      "status": "maintenance",
      "incidents": [
       {
-         "date": "2025-04-19T21:14:00.000Z"
+         "date": "2025-04-19T21:14:00.000Z",
          "message": "Making some corrections and improving latency.",
          "type": "maintenance"
        }
