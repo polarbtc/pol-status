@@ -1,12 +1,12 @@
 [
    {
      "id": 1,
-     "status": "maintenance",
+     "status": "operational",
      "incidents": [
        {
-         "date": "2025-04-21T10:15:00.000Z",
-         "message": "Currently updating the frontend of the site.",
-         "type": "maintenance"
+         "date": "2025-04-21T09:37:00.000Z",
+         "message": "All systems operational. Everything is working smoothly.",
+         "type": "operational"
        }
      ]
    },
