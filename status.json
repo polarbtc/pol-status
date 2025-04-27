@@ -1,12 +1,12 @@
 [
    {
      "id": 1,
-     "status": "maintenance",
+     "status": "operational",
      "incidents": [
        {
-         "date": "2025-04-27T21:45:00.000Z",
-         "message": "Adding new tool.",
-         "type": "maintenance"
+         "date": "2025-04-27T23:27:00.000Z",
+         "message": "All systems operational. Everything is working smoothly.",
+         "type": "operational"
        }
      ]
    },
