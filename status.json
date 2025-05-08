@@ -1,7 +1,7 @@
 [
    {
      "id": 1,
-     "status": "operational",
+     "status": "maintenance",
      "incidents": [
        {
          "date": "2025-05-08T16:08:00.000Z",
