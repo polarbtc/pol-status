@@ -23,12 +23,12 @@
    },
    {
      "id": 3,
-     "status": "maintenance_scheduled",
+     "status": "maintenance",
      "incidents": [
       {
-         "date": "2025-06-12T21:00:00.000Z",
+         "date": "2025-06-12T23:00:00.000Z",
          "message": "Maintenance for data flow improvements and system optimization.",
-         "type": "maintenance_scheduled"
+         "type": "maintenance"
        }
      ]
    }
