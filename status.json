@@ -4,8 +4,8 @@
      "status": "operational",
      "incidents": [
        {
-         "date": "2025-05-08T01:39:00.000Z",
-         "message": "All systems operational. Everything is working smoothly.",
+         "date": "2025-06-12T23:00:00.000Z",
+         "message": "Maintenance for data flow improvements and system optimization.",
          "type": "operational"
        }
      ]
