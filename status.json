@@ -23,12 +23,12 @@
    },
    {
      "id": 3,
-     "status": "operational",
+     "status": "maintenance",
      "incidents": [
       {
          "date": "2025-06-12T03:15:00.000Z",
          "message": "All systems operational. Everything is working smoothly.",
-         "type": "operational"
+         "type": "maintenance"
        }
      ]
    }
